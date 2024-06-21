@@ -41,14 +41,13 @@ I am an electronics engineer with a strong interest in software development, cur
 
 ## Certifications
 - **Html & Css** - [udemy](https://link-to-certificate.com)
-- **Certification Name** - [](https://link-to-certificate.com)
-<!-- Add more certifications -->
+
 
 
 ## Mini-Projects
 
 ### [Line Follower Bot](https://github.com/your-username/mini-project-name)
-*Brief description of the mini-project and its key features.*
+
 
 
 ## Connect with Me
